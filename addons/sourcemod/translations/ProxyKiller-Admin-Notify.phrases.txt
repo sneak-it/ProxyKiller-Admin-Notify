@@ -1,0 +1,8 @@
+"Phrases"
+{
+        "VPNConnect"
+        {
+            "#format"   "{1:s},{2:s}"
+            "en"        "Player {1} ({2}) connected with a VPN/Proxy"
+        }
+}
