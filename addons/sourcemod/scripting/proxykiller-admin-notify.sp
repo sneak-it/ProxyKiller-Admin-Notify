@@ -3,6 +3,15 @@
 
 #define PREFIX "[ProxyKiller] "
 
+public Plugin myinfo = 
+{
+	name = "ProxyKiller - Admin Notify",
+	author = ".sneaK",
+	description = "Notifies in-game admins of players connecting with a VPN/Proxy",
+	version = "1.0",
+	url = "www.snksrv.com"
+}
+
 public void OnPluginStart()
 {
 	LoadTranslations("ProxyKiller-Admin-Notify.phrases");
